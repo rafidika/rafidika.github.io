@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a74e1b4.css",
+    "main.js": "/static/js/main.b845a9f9.js",
+    "static/media/instagram.png": "/static/media/instagram.0963b7a591227164566c.png",
+    "static/media/discord.png": "/static/media/discord.b5bd52432116402ed0c7.png",
+    "static/media/linebarcode.JPG": "/static/media/linebarcode.022efd3bf67c69a18b2e.JPG",
+    "static/media/css3.png": "/static/media/css3.19c8605d6b2861f5fbe0.png",
+    "static/media/java.png": "/static/media/java.fdabd4e11f1235e4e8e0.png",
+    "static/media/python3.png": "/static/media/python3.cb8bb00dc14d23e2092a.png",
+    "static/media/mysql.png": "/static/media/mysql.6e42b2a035b28f240021.png",
+    "static/media/react.png": "/static/media/react.f3e576ba08e6be927148.png",
+    "static/media/home-img.svg": "/static/media/home-img.37894f45ebd73ccac5662732a685c4af.svg",
+    "static/media/social.png": "/static/media/social.f4de85326abca9cadb03.png",
+    "static/media/message.png": "/static/media/message.d56309694df1236e0777.png",
+    "static/media/line.png": "/static/media/line.9570f029560616355feb.png",
+    "static/media/home.png": "/static/media/home.2ed360dd34282fb2abc7.png",
+    "index.html": "/index.html",
+    "main.6a74e1b4.css.map": "/static/css/main.6a74e1b4.css.map",
+    "main.b845a9f9.js.map": "/static/js/main.b845a9f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a74e1b4.css",
+    "static/js/main.b845a9f9.js"
+  ]
+}
